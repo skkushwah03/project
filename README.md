@@ -1,2 +1,2 @@
 # project
-detail project list
+detail project list      
